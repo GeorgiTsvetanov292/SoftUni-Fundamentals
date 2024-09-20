@@ -1,0 +1,14 @@
+D:\visual\fundamentals c#\1.Basic SyntaxConditionalStatementsAndLoops\Basic SyntaxConditionalStatementsAndLoops\14(1). Ages\bin\Debug\net8.0\14(1). Ages.exe
+D:\visual\fundamentals c#\1.Basic SyntaxConditionalStatementsAndLoops\Basic SyntaxConditionalStatementsAndLoops\14(1). Ages\bin\Debug\net8.0\14(1). Ages.deps.json
+D:\visual\fundamentals c#\1.Basic SyntaxConditionalStatementsAndLoops\Basic SyntaxConditionalStatementsAndLoops\14(1). Ages\bin\Debug\net8.0\14(1). Ages.runtimeconfig.json
+D:\visual\fundamentals c#\1.Basic SyntaxConditionalStatementsAndLoops\Basic SyntaxConditionalStatementsAndLoops\14(1). Ages\bin\Debug\net8.0\14(1). Ages.dll
+D:\visual\fundamentals c#\1.Basic SyntaxConditionalStatementsAndLoops\Basic SyntaxConditionalStatementsAndLoops\14(1). Ages\bin\Debug\net8.0\14(1). Ages.pdb
+D:\visual\fundamentals c#\1.Basic SyntaxConditionalStatementsAndLoops\Basic SyntaxConditionalStatementsAndLoops\14(1). Ages\obj\Debug\net8.0\14(1). Ages.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\fundamentals c#\1.Basic SyntaxConditionalStatementsAndLoops\Basic SyntaxConditionalStatementsAndLoops\14(1). Ages\obj\Debug\net8.0\14(1). Ages.AssemblyInfoInputs.cache
+D:\visual\fundamentals c#\1.Basic SyntaxConditionalStatementsAndLoops\Basic SyntaxConditionalStatementsAndLoops\14(1). Ages\obj\Debug\net8.0\14(1). Ages.AssemblyInfo.cs
+D:\visual\fundamentals c#\1.Basic SyntaxConditionalStatementsAndLoops\Basic SyntaxConditionalStatementsAndLoops\14(1). Ages\obj\Debug\net8.0\14(1). Ages.csproj.CoreCompileInputs.cache
+D:\visual\fundamentals c#\1.Basic SyntaxConditionalStatementsAndLoops\Basic SyntaxConditionalStatementsAndLoops\14(1). Ages\obj\Debug\net8.0\14(1). Ages.dll
+D:\visual\fundamentals c#\1.Basic SyntaxConditionalStatementsAndLoops\Basic SyntaxConditionalStatementsAndLoops\14(1). Ages\obj\Debug\net8.0\refint\14(1). Ages.dll
+D:\visual\fundamentals c#\1.Basic SyntaxConditionalStatementsAndLoops\Basic SyntaxConditionalStatementsAndLoops\14(1). Ages\obj\Debug\net8.0\14(1). Ages.pdb
+D:\visual\fundamentals c#\1.Basic SyntaxConditionalStatementsAndLoops\Basic SyntaxConditionalStatementsAndLoops\14(1). Ages\obj\Debug\net8.0\14(1). Ages.genruntimeconfig.cache
+D:\visual\fundamentals c#\1.Basic SyntaxConditionalStatementsAndLoops\Basic SyntaxConditionalStatementsAndLoops\14(1). Ages\obj\Debug\net8.0\ref\14(1). Ages.dll
